@@ -58,6 +58,7 @@ class AlarmViewController: FormViewController {
         "Ghost_Hover",
         "Good_Morning",
         "Hell_Yeah_Somewhat_Calmer",
+        "Haha_Im_In_Danger",
         "In_A_Hurry",
         "Indeed",
         "Insistently",
