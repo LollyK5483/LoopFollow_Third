@@ -108,7 +108,7 @@ class SnoozeViewController: UIViewController, UNUserNotificationCenterDelegate {
         let request = UNNotificationRequest(identifier: UUID().uuidString, content: content, trigger: trigger)
         UNUserNotificationCenter.current().add(request, withCompletionHandler: nil)
         
-        let action = UNNotificationAction(identifier: "snooze", title: "I FUCKING heard you", options: [])
+        let action = UNNotificationAction(identifier: "snooze", title: "Snooze", options: [])
         let category = UNNotificationCategory(identifier: "category", actions: [action], intentIdentifiers: [], options: [])
         UNUserNotificationCenter.current().setNotificationCategories([category])
     }
