@@ -47,6 +47,7 @@ class AlarmViewController: FormViewController {
         "Computer_Magic",
         "CSFX-2_Alarm",
         "Cuckoo_Clock",
+        "Danger",
         "Dhol_Shuffleloop",
         "Discreet",
         "Early_Sunrise",
