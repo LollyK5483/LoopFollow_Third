@@ -362,7 +362,7 @@
 		FC7CE515248ABE37001F83B8 /* Oringz.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Oringz.caf; sourceTree = "<group>"; };
 		FC7CE516248ABE37001F83B8 /* Siri_Glucose_Dropping_Fast.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Siri_Glucose_Dropping_Fast.caf; sourceTree = "<group>"; };
 		FC7CE517248ABE37001F83B8 /* Martian_Gun.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Martian_Gun.caf; sourceTree = "<group>"; };
-		FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf :/ = {isa = PBXFileReference; lastKnownFileType = file; path = "Haha_Im_In_Danger.caf"; sourceTree = "<group>"; };
+		FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Haha_Im_In_Danger.caf"; sourceTree = "<group>"; };
 		FC7CE589248ABEA3001F83B8 /* AlarmSound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlarmSound.swift; sourceTree = "<group>"; };
 		FC7CE58B248ABEF1001F83B8 /* alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm.mp3; sourceTree = "<group>"; };
 		FC7CE58C248ABEF1001F83B8 /* alarm-notification.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "alarm-notification.m4a"; sourceTree = "<group>"; };
