@@ -166,8 +166,7 @@
 		FC7CE583248ABE37001F83B8 /* Sci-Fi_Alarm_Loop_2.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE514248ABE36001F83B8 /* Sci-Fi_Alarm_Loop_2.caf */; };
 		FC7CE584248ABE37001F83B8 /* Oringz.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE515248ABE37001F83B8 /* Oringz.caf */; };
 		FC7CE585248ABE37001F83B8 /* Siri_Glucose_Dropping_Fast.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE516248ABE37001F83B8 /* Siri_Glucose_Dropping_Fast.caf */; };
-		FC7CE586248ABE37001F83B8 /* Martian_Gun.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE517248ABE37001F83B8 /* Martian_Gun.caf */; };
-		FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf */; };	
+		FC7CE586248ABE37001F83B8 /* Martian_Gun.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE517248ABE37001F83B8 /* Martian_Gun.caf */; };	
 		FC7CE58D248ABEF2001F83B8 /* alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE58B248ABEF1001F83B8 /* alarm.mp3 */; };
 		FC7CE58E248ABEF2001F83B8 /* alarm-notification.m4a in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE58C248ABEF1001F83B8 /* alarm-notification.m4a */; };
 		FC7CE59C248D33A9001F83B8 /* dragbar.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE59B248D33A9001F83B8 /* dragbar.png */; };
