@@ -169,7 +169,7 @@
 		FC7CE586248ABE37001F83B8 /* Martian_Gun.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE517248ABE37001F83B8 /* Martian_Gun.caf */; };
 		FC7CE58D248ABEF2001F83B8 /* alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE58B248ABEF1001F83B8 /* alarm.mp3 */; };
 		FC7CE58E248ABEF2001F83B8 /* alarm-notification.m4a in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE58C248ABEF1001F83B8 /* alarm-notification.m4a */; };
-		FC7CE58F248ABE37001F83B8 /* Haha_Im_In_Danger.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE58F248ABE37001F83B8 /* Haha_Im_In_Danger.caf */; };		
+		FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf */; };		
 		FC7CE59C248D33A9001F83B8 /* dragbar.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7CE59B248D33A9001F83B8 /* dragbar.png */; };
 		FC7CE59F248D8D23001F83B8 /* SnoozeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7CE59E248D8D23001F83B8 /* SnoozeViewController.swift */; };
 		FC8589BF252B54F500C8FC73 /* Mobileprovision.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC8589BE252B54F500C8FC73 /* Mobileprovision.swift */; };
@@ -362,7 +362,7 @@
 		FC7CE515248ABE37001F83B8 /* Oringz.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Oringz.caf; sourceTree = "<group>"; };
 		FC7CE516248ABE37001F83B8 /* Siri_Glucose_Dropping_Fast.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Siri_Glucose_Dropping_Fast.caf; sourceTree = "<group>"; };
 		FC7CE517248ABE37001F83B8 /* Martian_Gun.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Martian_Gun.caf; sourceTree = "<group>"; };
-		FC7CE58F248ABE37001F83B8 /* Haha_Im_In_Danger.caf :/ = {isa = PBXFileReference; lastKnownFileType = file; path = "Haha_Im_In_Danger.caf"; sourceTree = "<group>"; };
+		FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf :/ = {isa = PBXFileReference; lastKnownFileType = file; path = "Haha_Im_In_Danger.caf"; sourceTree = "<group>"; };
 		FC7CE589248ABEA3001F83B8 /* AlarmSound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlarmSound.swift; sourceTree = "<group>"; };
 		FC7CE58B248ABEF1001F83B8 /* alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm.mp3; sourceTree = "<group>"; };
 		FC7CE58C248ABEF1001F83B8 /* alarm-notification.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "alarm-notification.m4a"; sourceTree = "<group>"; };
@@ -558,7 +558,7 @@
 				FC7CE500248ABE35001F83B8 /* Ghost_Hover.caf */,
 				FC7CE50A248ABE36001F83B8 /* Good_Morning.caf */,
 				FC7CE4DF248ABE32001F83B8 /* Hell_Yeah_Somewhat_Calmer.caf */,
-				FC7CE58F248ABE37001F83B8 /* Haha_Im_In_Danger.caf */,				
+				FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf */,				
 				FC7CE4F7248ABE34001F83B8 /* In_A_Hurry.caf */,
 				FC7CE4D6248ABE31001F83B8 /* Indeed.caf */,
 				FC7CE501248ABE35001F83B8 /* Insistently.caf */,
@@ -922,7 +922,7 @@
 				FC7CE581248ABE37001F83B8 /* Siri_Urgent_Low_Glucose.caf in Resources */,
 				FC7CE553248ABE37001F83B8 /* Sci-Fi_Eerie_Alarm.caf in Resources */,
 				FC7CE56A248ABE37001F83B8 /* Cartoon_Siren.caf in Resources */,
-				FC7CE58F248ABE37001F83B8 /* Haha_Im_In_Danger.caf in Resources */,
+				FC7CE587248ABE37001F83B8 /* Haha_Im_In_Danger.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
