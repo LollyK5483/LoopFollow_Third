@@ -71,7 +71,7 @@ class ContactImageUpdater {
 
         var bgAttributes: [NSAttributedString.Key: Any] = [
             .font: UIFont.boldSystemFont(ofSize: fontSize),
-            .foregroundColor: stale ? UIColor.gray : UIColor.aquamarine,
+            .foregroundColor: stale ? UIColor.gray : UIColor.blue,
             .paragraphStyle: paragraphStyle
         ]
 
@@ -81,7 +81,7 @@ class ContactImageUpdater {
 
         let extraAttributes: [NSAttributedString.Key: Any] = [
             .font: UIFont.systemFont(ofSize: 90),
-            .foregroundColor: UIColor.aquamarine,
+            .foregroundColor: UIColor.blue,
             .paragraphStyle: paragraphStyle
         ]
 
