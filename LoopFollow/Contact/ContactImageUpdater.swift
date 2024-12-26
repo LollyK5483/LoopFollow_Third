@@ -60,7 +60,7 @@ class ContactImageUpdater {
         UIGraphicsBeginImageContextWithOptions(size, false, 0)
         guard let context = UIGraphicsGetCurrentContext() else { return nil }
 
-        UIColor.blue.setFill()
+        UIColor.black.setFill()
         context.fill(CGRect(origin: .zero, size: size))
 
         let paragraphStyle = NSMutableParagraphStyle()
@@ -71,7 +71,7 @@ class ContactImageUpdater {
 
         var bgAttributes: [NSAttributedString.Key: Any] = [
             .font: UIFont.boldSystemFont(ofSize: fontSize),
-            .foregroundColor: stale ? UIColor.gray : UIColor.white,
+            .foregroundColor: stale ? UIColor.gray : UIColor.aquamarine,
             .paragraphStyle: paragraphStyle
         ]
 
@@ -81,7 +81,7 @@ class ContactImageUpdater {
 
         let extraAttributes: [NSAttributedString.Key: Any] = [
             .font: UIFont.systemFont(ofSize: 90),
-            .foregroundColor: UIColor.white,
+            .foregroundColor: UIColor.aquamarine,
             .paragraphStyle: paragraphStyle
         ]
 
